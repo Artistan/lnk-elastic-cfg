@@ -220,7 +220,7 @@ return [
 				[
 						"frequency" => [],
 						"dateFormat" => 'Y-m-d',
-                                                "timezone" => 'CST',
+						"timezone" => 'CST',
 						"versionThreshold" => 500,
 						"definition" => [
 								"index" => "lnk",
@@ -297,7 +297,7 @@ return [
 				[
 						"frequency" => [],
 						"dateFormat" => 'Y-m-d',
-                                                "timezone" => 'CST',
+						"timezone" => 'CST',
 						"versionThreshold" => 500,
 						"definition" => [
 								"index" => "lnk9",
@@ -347,7 +347,7 @@ return [
 				[
 						"frequency" => [],
 						"dateFormat" => 'Y-m-d',
-                                                "timezone" => 'CST',
+						"timezone" => 'CST',
 						"versionThreshold" => 500,
 						"definition" => [
 								"index" => "lnk9",
@@ -394,7 +394,7 @@ return [
 				[
 						"frequency" => [],
 						"dateFormat" => 'Y-m-d',
-                                                "timezone" => 'CST',
+						"timezone" => 'CST',
 						"versionThreshold" => 500,
 						"definition" => [
 								"index" => "lnk9",
