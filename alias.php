@@ -8,7 +8,6 @@
 
 return [
     'aliases' => [
-////////// lnk
 
         'lnk_today' => function($app,$start,$date) {
             $helper = $app->make('datehelper');
@@ -29,7 +28,6 @@ return [
             $helper = $app->make('datehelper');
             return $helper->range($start,$date,'-30day');
         },
-////////// lnk9
 
         'lnk9_today' => function($app,$start,$date) {
             $helper = $app->make('datehelper');
