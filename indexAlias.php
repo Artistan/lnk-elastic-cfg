@@ -17,6 +17,14 @@ return [
                 'lnk_30day'
             ]
         ],
+        'lnk9' => [
+            'aliases' => [
+                'lnk9_today',
+                'lnk9_7day',
+                'lnk9_14day',
+                'lnk9_30day'
+            ]
+        ],
 
     ]
 
